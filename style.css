@@ -1,0 +1,102 @@
+
+.chat {
+    height: 30px;
+}
+
+.home-color {
+    background-color: #0d0d0d;
+
+}
+
+.heading-home {
+    color: #ffffff;
+    background-image: url(https://framerusercontent.com/images/2IaeICXvsJApqTXCae1q1dVMVIE.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0% 0%;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: rgb(134, 136, 136);
+
+    font-family: Outfit, sans-serif;
+    font-style: normal;
+    font-weight: 1000;
+    text-align: left;
+    letter-spacing: 0px;
+    white-space: normal;
+    line-height: 1;
+    margin: 0px;
+    padding: 0px 0px 10px;
+
+
+}
+
+.im1 {
+    background-image: url('https://img.freepik.com/premium-photo/digital-healthcare-medical-remote-doctor-technology-concept-ai-metaverse-doctor-optimize-patient_733288-11.jpg?w=900');
+    background-size: cover;
+    height: 50vh;
+}
+
+.pa1 {
+    color: white;
+
+}
+
+.im2 {
+    background-image: url('https://img.freepik.com/premium-photo/man-suit-is-looking-robot-with-speech-bubbles-saying-we-are-robot_843415-588.jpg?w=996');
+    background-size: cover;
+    height: 50vh;
+}
+
+.hed1 {
+    color: #ffffff;
+
+}
+
+.pa2 {
+    color: white;
+}
+
+.pa3 {
+    color: white;
+}
+
+.hed2 {
+    color: rgb(250, 235, 215)
+}
+
+.hed3 {
+    color: rgb(210, 105, 30);
+}
+
+.im3 {
+    background-image: url('https://img.freepik.com/premium-photo/automation-customer-service-with-robot-working-with-notebook_493806-2827.jpg?w=740');
+    background-size: cover;
+    height: 50vh;
+    background-position: center;
+
+}
+
+.im4 {
+    background-image: url('https://as1.ftcdn.net/v2/jpg/03/44/58/76/1000_F_344587686_m2l9naDreYPLNxIGg2WrgNgAmsPq6lVi.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+}
+
+.if1 {
+    height: 40vh;
+    width: 100%;
+}
+
+.img-fluid {
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.img-log {
+    height: 50px;
+    background-size: cover;
+}
